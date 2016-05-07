@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-07T04:18:24.263Z'
-dateModified: '2016-05-07T04:18:05.546Z'
+datePublished: '2016-05-07T04:42:54.841Z'
+dateModified: '2016-05-07T04:18:31.147Z'
 title: New members get their first week of unlimited yoga classes for only $5
 author: []
+sourcePath: _posts/2016-05-07-new-members-get-their-first-week-of-unlimited-yoga-classes-f.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-07-new-members-get-their-first-week-of-unlimited-yoga-classes-f.md
 url: new-members-get-their-first-week-of-unlimited-yoga-classes-f/index.html
 _type: Article
 
