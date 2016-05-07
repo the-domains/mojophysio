@@ -2,6 +2,7 @@ name: mojophysio
 favicon: null
 layout_spectrum: 0.99105
 typography_spectrum: 0.88619
+title: 'MOJOPhysio&Yoga'
 cta:
   domain: null
   bucket: null
