@@ -1,7 +1,7 @@
 name: mojophysio
 favicon: null
-layout_spectrum: 0.44498161878436804
-typography_spectrum: 0.9842840326018631
+layout_spectrum: 0.99105
+typography_spectrum: 0.88619
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.7529652521479875
-  lightness: 0.14328101254068315
-  saturation: 0.5460874948184937
-  rhythmicContrast: 0.8896359282080084
+    - '#fffffe'
+    - '#737888'
+    - '#b5c1cc'
+    - '#261609'
+    - '#db2530'
+  brandStrength: 0.125
+  lightness: 0.8125
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
