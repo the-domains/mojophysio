@@ -6,36 +6,36 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.5956157
   brandStrength: 0.826959
-  lightness: 0.7686567
+  rhythmicContrast: 0.7453358
   brandColors:
     - '#FDFDFB'
     - '#CC0001'
     - '#FF751A'
     - '#FFCC00'
     - '#AEA0AD'
-  rhythmicContrast: 0.7453358
+  lightness: 0.7686567
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
 cta:
   bucket: null
   version: null
   domain: null
 name: mojophysio
-favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.1459888
-layout_spectrum: 0.3017724
+layout_spectrum: 0.06156716
